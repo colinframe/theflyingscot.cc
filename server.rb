@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'webrick'
 
 root = File.expand_path './'
